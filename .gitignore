@@ -1,0 +1,5 @@
+# Godot 4+ specific ignores
+*.import
+screenshot.png
+.godot/
+/android/

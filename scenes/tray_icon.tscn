@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://beq858h0jc8jx"]
+
+[ext_resource type="Script" path="res://scripts/tray_icon.gd" id="1_s8me6"]
+
+[node name="StatusIndicator" type="StatusIndicator"]
+script = ExtResource("1_s8me6")
