@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="GShot"
+config/tags=PackedStringArray("gui", "utility")
 run/main_scene="uid://beq858h0jc8jx"
 config/features=PackedStringArray("4.5", "GL Compatibility")
 config/icon="uid://cr1qh4oem4i4v"
